@@ -22,7 +22,7 @@ function App() {
   
   return (
     <>
-    <Router basename="/my-first-git-project">
+    <Router basename="/Ecommerce-git">
       <Routes>
         <Route path="/" element={<HomePage />}>
           <Route index element={<AboutUs />} />
